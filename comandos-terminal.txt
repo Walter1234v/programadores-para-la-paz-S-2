@@ -1,0 +1,8 @@
+touch comandos-terminal.txt
+nano comandos-terminal.txt
+ls
+git add comamdos-terminal.txt
+git commit -m comandos-terminal.txt
+mkdir
+cd
+git push
