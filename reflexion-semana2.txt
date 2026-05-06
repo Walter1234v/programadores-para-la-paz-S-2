@@ -1,0 +1,8 @@
+Sí, es bastante importante. La terminal permite moverte rápidamente entre carpetas, crear, editar y eliminar archivos sin depender de interfaces gráficas. Esto se traduce en mayor eficiencia y control, especialmente en proyectos grandes.
+Además, muchas herramientas de desarrollo (como Git ) se usan principalmente desde la terminal.
+También facilita automatizar tareas repetitivas mediante scripts.
+En entornos profesionales, es común trabajar en servidores donde solo tienes acceso por consola.
+Dominar comandos básicos mejora tu productividad y comprensión del sistema.
+No necesitas ser experto, pero sí manejar lo esencial con soltura.También te ayuda a entender mejor la estructura de tu proyecto y cómo interactúan los archivos entre sí.
+Puedes buscar contenido dentro de archivos, mover grandes cantidades de datos y ejecutar programas directamente.Trabajar en la terminal reduce la dependencia de herramientas pesadas y te da más flexibilidad.
+
